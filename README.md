@@ -7,7 +7,7 @@
 - **WiFi Deauthentication (Deauth)**: Memutus koneksi perangkat dari Access Point (AP) menggunakan injeksi paket 802.11.
 - **Deep WiFi Scanner**: Pemindaian AP per-channel yang lebih agresif dan sensitif.
 - **Clock & Mission Elapsed Time (MET)**: Menggunakan NTP Server untuk sinkronisasi waktu.
-- **UI Cyberpunk**: Tampilan TFT ST7789 dengan gaya antarmuka terminal/hacker.
+
 
 ## 🛠️ Hardware yang Digunakan
 - **ESP32 DevKit V1** (atau yang setara)
