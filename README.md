@@ -1,9 +1,9 @@
 # UMBRA V4 - Cyberdeck Multi-Tool
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pupumann/UMBRA_V4/main/1000041975.jpg" width="32%" alt="UMBRA V4 - Tampak Depan">
-  <img src="https://raw.githubusercontent.com/pupumann/UMBRA_V4/main/1000041976.jpg" width="32%" alt="UMBRA V4 - Tampak Samping">
-  <img src="https://raw.githubusercontent.com/pupumann/UMBRA_V4/main/1000041974.jpg" width="32%" alt="UMBRA V4 - Tampak Dalam">
+  <img src="1000041975.jpg" width="32%" alt="UMBRA V4 - Tampak Depan">
+  <img src="1000041976.jpg" width="32%" alt="UMBRA V4 - Tampak Samping">
+  <img src="1000041974.jpg" width="32%" alt="UMBRA V4 - Tampak Dalam">
 </p>
 
 **UMBRA V4** adalah perangkat *Cyberdeck* berbasis ESP32 yang dirancang untuk keperluan riset keamanan jaringan (WiFi), analisis spektrum 2.4GHz, dan uji penetrasi nirkabel. 
